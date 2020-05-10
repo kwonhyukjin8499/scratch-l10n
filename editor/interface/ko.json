@@ -450,6 +450,8 @@
     "gui.extension.wedo2.connectingMessage": "연결 중",
     "gui.extension.gdxfor.description": "Sense push, pull, motion, and spin.",
     "gui.extension.gdxfor.connectingMessage": "Connecting",
+    "gui.extension.tensorflow.name": "텐서플로우",
+    "gui.extension.tensorflow.description": "인공지능 학습을 위한 텐서플로우 모델을 만들어보세요.",
     "gui.libraryTags.all": "모두",
     "gui.libraryTags.animals": "동물",
     "gui.libraryTags.dance": "댄스",
